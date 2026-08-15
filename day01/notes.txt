@@ -1,0 +1,9 @@
+mexmaxriver
+hello
+grep
+echo是写入命令，>重写，>>追加
+cat是查看命令
+ls猜测是列表之类的
+wc不懂，cp和mv是复制移动
+grep也不懂
+wc=数数，grep=搜索，echo=输出+重定向=写入
