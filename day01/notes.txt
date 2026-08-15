@@ -9,3 +9,4 @@ grep也不懂
 wc=数数，grep=搜索，echo=输出+重定向=写入
 今天学了git分支
 main 又前进了一步
+main 又前进了一步
