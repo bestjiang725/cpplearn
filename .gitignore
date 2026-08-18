@@ -1,0 +1,10 @@
+# 编译产物与临时文件
+main
+core
+.vscode/
+
+# gdb 练习的可执行文件
+gdb-day01/day9
+gdb-day02/day10
+gdb-day03/crash1
+gdb-day03/mystery
