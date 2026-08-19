@@ -8,3 +8,12 @@ gdb-day01/day9
 gdb-day02/day10
 gdb-day03/crash1
 gdb-day03/mystery
+
+# 大文件与第三方源码
+llama.cpp/
+models/
+*.zip
+
+# 编译产物
+*.o
+cmake-day01/app
